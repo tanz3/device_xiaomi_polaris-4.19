@@ -1,4 +1,4 @@
-# Device proprietary files - from polaris' MIUI package V12.0.3.0.QDGMIXM global stable version
+# Device proprietary files - from polaris' MIUI package V12.5.1.0.QDGCNXM China stable version
 
 # ACDB
 vendor/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb
@@ -288,6 +288,7 @@ vendor/lib/hw/android.hardware.secure_element@1.0-impl.so
 vendor/lib64/hw/android.hardware.secure_element@1.0-impl.so
 
 # Sensors
+vendor/lib/libsnsapi.so
 vendor/lib/libultrasound.so
 vendor/lib/sensors.ssc.so
 vendor/lib/sensors.touch.so
